@@ -15,7 +15,7 @@ spec:
         app: nginx
     spec:
       containers:
-      - name: myproject2
+      - name: nanavproject2
         image: nanav01/devops2
         ports:
         - containerPort: 80
